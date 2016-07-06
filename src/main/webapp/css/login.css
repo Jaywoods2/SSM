@@ -1,0 +1,38 @@
+body{
+	background-color: #8AA9CC;
+}
+.mainlogin{
+	width: 450px;
+	height: 220px;
+	margin: 110px auto;
+	background-color: #FFFFFF;
+}
+.tab{
+	width: 80%;
+	height: 100%;
+	margin: 0 auto;
+}
+.tab td{
+	height: 40px;
+}
+#loginbtn{
+	background-color: #9197A8;
+	width: 80px;
+	height: 35px;
+	text-align: center;
+}
+.td1{
+	text-align: right;
+	width: 30%;
+}
+.td2{
+	text-align: left;
+	width: 70%;
+}
+.title{
+	border-bottom: 2px solid #BDBDBD;
+	font-size: 16x;
+	height:30px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
